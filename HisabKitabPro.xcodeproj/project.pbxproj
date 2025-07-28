@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		139F99242E37A81D00D79CD5 /* PBXContainerItemProxy */ = {
+		13ED01CA2E37A9DD00AE552B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 139F990D2E37A81C00D79CD5 /* Project object */;
+			containerPortal = 13ED01B42E37A9DB00AE552B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 139F99142E37A81C00D79CD5;
+			remoteGlobalIDString = 13ED01BB2E37A9DB00AE552B;
 			remoteInfo = HisabKitabPro;
 		};
-		139F992E2E37A81D00D79CD5 /* PBXContainerItemProxy */ = {
+		13ED01D42E37A9DD00AE552B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 139F990D2E37A81C00D79CD5 /* Project object */;
+			containerPortal = 13ED01B42E37A9DB00AE552B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 139F99142E37A81C00D79CD5;
+			remoteGlobalIDString = 13ED01BB2E37A9DB00AE552B;
 			remoteInfo = HisabKitabPro;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		139F99152E37A81C00D79CD5 /* HisabKitabPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HisabKitabPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		139F99232E37A81D00D79CD5 /* HisabKitabProTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HisabKitabProTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		139F992D2E37A81D00D79CD5 /* HisabKitabProUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HisabKitabProUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		13ED01BC2E37A9DB00AE552B /* HisabKitabPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HisabKitabPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13ED01C92E37A9DD00AE552B /* HisabKitabProTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HisabKitabProTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		13ED01D32E37A9DD00AE552B /* HisabKitabProUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HisabKitabProUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		139F99172E37A81C00D79CD5 /* HisabKitabPro */ = {
+		13ED01BE2E37A9DB00AE552B /* HisabKitabPro */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = HisabKitabPro;
 			sourceTree = "<group>";
 		};
-		139F99262E37A81D00D79CD5 /* HisabKitabProTests */ = {
+		13ED01CC2E37A9DD00AE552B /* HisabKitabProTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = HisabKitabProTests;
 			sourceTree = "<group>";
 		};
-		139F99302E37A81D00D79CD5 /* HisabKitabProUITests */ = {
+		13ED01D62E37A9DD00AE552B /* HisabKitabProUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = HisabKitabProUITests;
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		139F99122E37A81C00D79CD5 /* Frameworks */ = {
+		13ED01B92E37A9DB00AE552B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		139F99202E37A81D00D79CD5 /* Frameworks */ = {
+		13ED01C62E37A9DD00AE552B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		139F992A2E37A81D00D79CD5 /* Frameworks */ = {
+		13ED01D02E37A9DD00AE552B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		139F990C2E37A81C00D79CD5 = {
+		13ED01B32E37A9DB00AE552B = {
 			isa = PBXGroup;
 			children = (
-				139F99172E37A81C00D79CD5 /* HisabKitabPro */,
-				139F99262E37A81D00D79CD5 /* HisabKitabProTests */,
-				139F99302E37A81D00D79CD5 /* HisabKitabProUITests */,
-				139F99162E37A81C00D79CD5 /* Products */,
+				13ED01BE2E37A9DB00AE552B /* HisabKitabPro */,
+				13ED01CC2E37A9DD00AE552B /* HisabKitabProTests */,
+				13ED01D62E37A9DD00AE552B /* HisabKitabProUITests */,
+				13ED01BD2E37A9DB00AE552B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		139F99162E37A81C00D79CD5 /* Products */ = {
+		13ED01BD2E37A9DB00AE552B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				139F99152E37A81C00D79CD5 /* HisabKitabPro.app */,
-				139F99232E37A81D00D79CD5 /* HisabKitabProTests.xctest */,
-				139F992D2E37A81D00D79CD5 /* HisabKitabProUITests.xctest */,
+				13ED01BC2E37A9DB00AE552B /* HisabKitabPro.app */,
+				13ED01C92E37A9DD00AE552B /* HisabKitabProTests.xctest */,
+				13ED01D32E37A9DD00AE552B /* HisabKitabProUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		139F99142E37A81C00D79CD5 /* HisabKitabPro */ = {
+		13ED01BB2E37A9DB00AE552B /* HisabKitabPro */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 139F99372E37A81D00D79CD5 /* Build configuration list for PBXNativeTarget "HisabKitabPro" */;
+			buildConfigurationList = 13ED01DD2E37A9DD00AE552B /* Build configuration list for PBXNativeTarget "HisabKitabPro" */;
 			buildPhases = (
-				139F99112E37A81C00D79CD5 /* Sources */,
-				139F99122E37A81C00D79CD5 /* Frameworks */,
-				139F99132E37A81C00D79CD5 /* Resources */,
+				13ED01B82E37A9DB00AE552B /* Sources */,
+				13ED01B92E37A9DB00AE552B /* Frameworks */,
+				13ED01BA2E37A9DB00AE552B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				139F99172E37A81C00D79CD5 /* HisabKitabPro */,
+				13ED01BE2E37A9DB00AE552B /* HisabKitabPro */,
 			);
 			name = HisabKitabPro;
 			packageProductDependencies = (
 			);
 			productName = HisabKitabPro;
-			productReference = 139F99152E37A81C00D79CD5 /* HisabKitabPro.app */;
+			productReference = 13ED01BC2E37A9DB00AE552B /* HisabKitabPro.app */;
 			productType = "com.apple.product-type.application";
 		};
-		139F99222E37A81D00D79CD5 /* HisabKitabProTests */ = {
+		13ED01C82E37A9DD00AE552B /* HisabKitabProTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 139F993A2E37A81D00D79CD5 /* Build configuration list for PBXNativeTarget "HisabKitabProTests" */;
+			buildConfigurationList = 13ED01E02E37A9DD00AE552B /* Build configuration list for PBXNativeTarget "HisabKitabProTests" */;
 			buildPhases = (
-				139F991F2E37A81D00D79CD5 /* Sources */,
-				139F99202E37A81D00D79CD5 /* Frameworks */,
-				139F99212E37A81D00D79CD5 /* Resources */,
+				13ED01C52E37A9DD00AE552B /* Sources */,
+				13ED01C62E37A9DD00AE552B /* Frameworks */,
+				13ED01C72E37A9DD00AE552B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				139F99252E37A81D00D79CD5 /* PBXTargetDependency */,
+				13ED01CB2E37A9DD00AE552B /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				139F99262E37A81D00D79CD5 /* HisabKitabProTests */,
+				13ED01CC2E37A9DD00AE552B /* HisabKitabProTests */,
 			);
 			name = HisabKitabProTests;
 			packageProductDependencies = (
 			);
 			productName = HisabKitabProTests;
-			productReference = 139F99232E37A81D00D79CD5 /* HisabKitabProTests.xctest */;
+			productReference = 13ED01C92E37A9DD00AE552B /* HisabKitabProTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		139F992C2E37A81D00D79CD5 /* HisabKitabProUITests */ = {
+		13ED01D22E37A9DD00AE552B /* HisabKitabProUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 139F993D2E37A81D00D79CD5 /* Build configuration list for PBXNativeTarget "HisabKitabProUITests" */;
+			buildConfigurationList = 13ED01E32E37A9DD00AE552B /* Build configuration list for PBXNativeTarget "HisabKitabProUITests" */;
 			buildPhases = (
-				139F99292E37A81D00D79CD5 /* Sources */,
-				139F992A2E37A81D00D79CD5 /* Frameworks */,
-				139F992B2E37A81D00D79CD5 /* Resources */,
+				13ED01CF2E37A9DD00AE552B /* Sources */,
+				13ED01D02E37A9DD00AE552B /* Frameworks */,
+				13ED01D12E37A9DD00AE552B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				139F992F2E37A81D00D79CD5 /* PBXTargetDependency */,
+				13ED01D52E37A9DD00AE552B /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				139F99302E37A81D00D79CD5 /* HisabKitabProUITests */,
+				13ED01D62E37A9DD00AE552B /* HisabKitabProUITests */,
 			);
 			name = HisabKitabProUITests;
 			packageProductDependencies = (
 			);
 			productName = HisabKitabProUITests;
-			productReference = 139F992D2E37A81D00D79CD5 /* HisabKitabProUITests.xctest */;
+			productReference = 13ED01D32E37A9DD00AE552B /* HisabKitabProUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		139F990D2E37A81C00D79CD5 /* Project object */ = {
+		13ED01B42E37A9DB00AE552B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					139F99142E37A81C00D79CD5 = {
+					13ED01BB2E37A9DB00AE552B = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					139F99222E37A81D00D79CD5 = {
+					13ED01C82E37A9DD00AE552B = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 139F99142E37A81C00D79CD5;
+						TestTargetID = 13ED01BB2E37A9DB00AE552B;
 					};
-					139F992C2E37A81D00D79CD5 = {
+					13ED01D22E37A9DD00AE552B = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 139F99142E37A81C00D79CD5;
+						TestTargetID = 13ED01BB2E37A9DB00AE552B;
 					};
 				};
 			};
-			buildConfigurationList = 139F99102E37A81C00D79CD5 /* Build configuration list for PBXProject "HisabKitabPro" */;
+			buildConfigurationList = 13ED01B72E37A9DB00AE552B /* Build configuration list for PBXProject "HisabKitabPro" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 139F990C2E37A81C00D79CD5;
+			mainGroup = 13ED01B32E37A9DB00AE552B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 139F99162E37A81C00D79CD5 /* Products */;
+			productRefGroup = 13ED01BD2E37A9DB00AE552B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				139F99142E37A81C00D79CD5 /* HisabKitabPro */,
-				139F99222E37A81D00D79CD5 /* HisabKitabProTests */,
-				139F992C2E37A81D00D79CD5 /* HisabKitabProUITests */,
+				13ED01BB2E37A9DB00AE552B /* HisabKitabPro */,
+				13ED01C82E37A9DD00AE552B /* HisabKitabProTests */,
+				13ED01D22E37A9DD00AE552B /* HisabKitabProUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		139F99132E37A81C00D79CD5 /* Resources */ = {
+		13ED01BA2E37A9DB00AE552B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		139F99212E37A81D00D79CD5 /* Resources */ = {
+		13ED01C72E37A9DD00AE552B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		139F992B2E37A81D00D79CD5 /* Resources */ = {
+		13ED01D12E37A9DD00AE552B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		139F99112E37A81C00D79CD5 /* Sources */ = {
+		13ED01B82E37A9DB00AE552B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		139F991F2E37A81D00D79CD5 /* Sources */ = {
+		13ED01C52E37A9DD00AE552B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		139F99292E37A81D00D79CD5 /* Sources */ = {
+		13ED01CF2E37A9DD00AE552B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		139F99252E37A81D00D79CD5 /* PBXTargetDependency */ = {
+		13ED01CB2E37A9DD00AE552B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 139F99142E37A81C00D79CD5 /* HisabKitabPro */;
-			targetProxy = 139F99242E37A81D00D79CD5 /* PBXContainerItemProxy */;
+			target = 13ED01BB2E37A9DB00AE552B /* HisabKitabPro */;
+			targetProxy = 13ED01CA2E37A9DD00AE552B /* PBXContainerItemProxy */;
 		};
-		139F992F2E37A81D00D79CD5 /* PBXTargetDependency */ = {
+		13ED01D52E37A9DD00AE552B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 139F99142E37A81C00D79CD5 /* HisabKitabPro */;
-			targetProxy = 139F992E2E37A81D00D79CD5 /* PBXContainerItemProxy */;
+			target = 13ED01BB2E37A9DB00AE552B /* HisabKitabPro */;
+			targetProxy = 13ED01D42E37A9DD00AE552B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		139F99352E37A81D00D79CD5 /* Debug */ = {
+		13ED01DB2E37A9DD00AE552B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -321,16 +321,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		139F99362E37A81D00D79CD5 /* Release */ = {
+		13ED01DC2E37A9DD00AE552B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -376,88 +378,71 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		139F99382E37A81D00D79CD5 /* Debug */ = {
+		13ED01DE2E37A9DD00AE552B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = HisabKitabPro/HisabKitabPro.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = devnexa.HisabKitabPro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REGISTER_APP_GROUPS = YES;
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.5;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		139F99392E37A81D00D79CD5 /* Release */ = {
+		13ED01DF2E37A9DD00AE552B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = HisabKitabPro/HisabKitabPro.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = devnexa.HisabKitabPro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REGISTER_APP_GROUPS = YES;
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.5;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		139F993B2E37A81D00D79CD5 /* Debug */ = {
+		13ED01E12E37A9DD00AE552B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -465,21 +450,17 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
-				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = devnexa.HisabKitabProTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HisabKitabPro.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/HisabKitabPro";
-				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		139F993C2E37A81D00D79CD5 /* Release */ = {
+		13ED01E22E37A9DD00AE552B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -487,102 +468,88 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
-				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = devnexa.HisabKitabProTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HisabKitabPro.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/HisabKitabPro";
-				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
 		};
-		139F993E2E37A81D00D79CD5 /* Debug */ = {
+		13ED01E42E37A9DD00AE552B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
-				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = devnexa.HisabKitabProUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = HisabKitabPro;
-				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		139F993F2E37A81D00D79CD5 /* Release */ = {
+		13ED01E52E37A9DD00AE552B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
-				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = devnexa.HisabKitabProUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = HisabKitabPro;
-				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		139F99102E37A81C00D79CD5 /* Build configuration list for PBXProject "HisabKitabPro" */ = {
+		13ED01B72E37A9DB00AE552B /* Build configuration list for PBXProject "HisabKitabPro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				139F99352E37A81D00D79CD5 /* Debug */,
-				139F99362E37A81D00D79CD5 /* Release */,
+				13ED01DB2E37A9DD00AE552B /* Debug */,
+				13ED01DC2E37A9DD00AE552B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		139F99372E37A81D00D79CD5 /* Build configuration list for PBXNativeTarget "HisabKitabPro" */ = {
+		13ED01DD2E37A9DD00AE552B /* Build configuration list for PBXNativeTarget "HisabKitabPro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				139F99382E37A81D00D79CD5 /* Debug */,
-				139F99392E37A81D00D79CD5 /* Release */,
+				13ED01DE2E37A9DD00AE552B /* Debug */,
+				13ED01DF2E37A9DD00AE552B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		139F993A2E37A81D00D79CD5 /* Build configuration list for PBXNativeTarget "HisabKitabProTests" */ = {
+		13ED01E02E37A9DD00AE552B /* Build configuration list for PBXNativeTarget "HisabKitabProTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				139F993B2E37A81D00D79CD5 /* Debug */,
-				139F993C2E37A81D00D79CD5 /* Release */,
+				13ED01E12E37A9DD00AE552B /* Debug */,
+				13ED01E22E37A9DD00AE552B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		139F993D2E37A81D00D79CD5 /* Build configuration list for PBXNativeTarget "HisabKitabProUITests" */ = {
+		13ED01E32E37A9DD00AE552B /* Build configuration list for PBXNativeTarget "HisabKitabProUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				139F993E2E37A81D00D79CD5 /* Debug */,
-				139F993F2E37A81D00D79CD5 /* Release */,
+				13ED01E42E37A9DD00AE552B /* Debug */,
+				13ED01E52E37A9DD00AE552B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 139F990D2E37A81C00D79CD5 /* Project object */;
+	rootObject = 13ED01B42E37A9DB00AE552B /* Project object */;
 }
